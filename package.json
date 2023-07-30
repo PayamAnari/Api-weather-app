@@ -1,0 +1,14 @@
+{
+  "name": "api-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payam Anari",
+  "license": "ISC",
+  "dependencies": {
+    "flag": "5.0.1"
+  }
+}
